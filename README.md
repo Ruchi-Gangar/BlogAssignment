@@ -3,8 +3,10 @@ Angular App with JAVA Backend (Refer https://github.com/Ruchi-Gangar/BlogAssignm
 
 # To run locally
 // java API (Terminal 1)
-mvn clean install
+mvn clean install;
 java -jar target/<war file name>
+  
+OR Right click and select Run on "BlogApplication" from IDE
 
 // Angular app (Terminal 2)
 npm start
